@@ -1,0 +1,11 @@
+﻿# Secrets et cles API
+.streamlit/secrets.toml
+secrets.toml
+
+# Fichiers generes par l'execution / cache Python
+__pycache__/
+*.py[cod]
+outputs/
+maison_droit.db
+anomalies_lignes_bizarres*.csv
+Rapport_Qualite_ETL.xlsx
